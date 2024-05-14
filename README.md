@@ -1,1 +1,1 @@
-[![cv.png]](https://lopezac.github.io/cv/)
+[![cv](./cv.png)](https://lopezac.github.io/cv/)
