@@ -1,0 +1,85 @@
+\babel@toc {english}{}\relax 
+\contentsline {section}{\numberline {1}Getting started}{2}{section.1}%
+\contentsline {subsection}{\numberline {1.1}How to read this manual}{2}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Installation instructions}{2}{subsection.1.2}%
+\contentsline {paragraph}{Note.}{2}{section*.2}%
+\contentsline {section}{\numberline {2}The \texttt {moderncv} template step by step}{2}{section.2}%
+\contentsline {paragraph}{Note.}{2}{section*.3}%
+\contentsline {paragraph}{Note.}{2}{section*.4}%
+\contentsline {subsection}{\numberline {2.1}Basic setup}{3}{subsection.2.1}%
+\contentsline {paragraph}{Note.}{3}{section*.7}%
+\contentsline {subsubsection}{\numberline {2.1.1}Language-specific setup}{3}{subsubsection.2.1.1}%
+\contentsline {paragraph}{Note.}{4}{section*.10}%
+\contentsline {subsection}{\numberline {2.2}Personal data}{4}{subsection.2.2}%
+\contentsline {paragraph}{\lstinline !\\name!}{4}{section*.11}%
+\contentsline {paragraph}{\lstinline !\\title!}{4}{section*.12}%
+\contentsline {paragraph}{\lstinline !\\born!}{4}{section*.13}%
+\contentsline {paragraph}{\lstinline !\\address!}{4}{section*.14}%
+\contentsline {paragraph}{\lstinline !\\phone!}{4}{section*.15}%
+\contentsline {paragraph}{\lstinline !\\email!}{4}{section*.16}%
+\contentsline {paragraph}{\lstinline !\\homepage!}{4}{section*.17}%
+\contentsline {paragraph}{\lstinline !\\social!}{4}{section*.18}%
+\contentsline {paragraph}{\lstinline !\\extrainfo!}{5}{section*.19}%
+\contentsline {paragraph}{\lstinline !\\photo!}{5}{section*.20}%
+\contentsline {paragraph}{\lstinline !\\quote!}{5}{section*.21}%
+\contentsline {paragraph}{Note.}{5}{section*.22}%
+\contentsline {paragraph}{Pictures.}{5}{section*.23}%
+\contentsline {paragraph}{Bibliography.}{5}{section*.24}%
+\contentsline {paragraph}{Note.}{5}{section*.25}%
+\contentsline {subsection}{\numberline {2.3}Modifying CV content}{6}{subsection.2.3}%
+\contentsline {subsubsection}{\numberline {2.3.1}Structuring the CV}{6}{subsubsection.2.3.1}%
+\contentsline {subsubsection}{\numberline {2.3.2}General macros}{6}{subsubsection.2.3.2}%
+\contentsline {paragraph}{\lstinline !\\cvitem!}{6}{section*.26}%
+\contentsline {paragraph}{\lstinline !\\cvdoubleitem!}{6}{section*.27}%
+\contentsline {paragraph}{\lstinline !\\cvtripleitem!}{6}{section*.28}%
+\contentsline {paragraph}{\lstinline !\\cvitemwithcomment!}{6}{section*.29}%
+\contentsline {paragraph}{\lstinline !\\cventry!}{6}{section*.30}%
+\contentsline {paragraph}{\lstinline !\\cvlistitem!}{6}{section*.31}%
+\contentsline {paragraph}{\lstinline !\\cvlistdoubleitem!}{6}{section*.32}%
+\contentsline {paragraph}{\lstinline !\\cvcolumns!}{7}{section*.33}%
+\contentsline {subsubsection}{\numberline {2.3.3}Skill matrix macros}{7}{subsubsection.2.3.3}%
+\contentsline {paragraph}{\lstinline !\\cvskill!}{7}{section*.34}%
+\contentsline {paragraph}{\lstinline !\\cvskilllegend!}{7}{section*.35}%
+\contentsline {paragraph}{\lstinline !\\cvskillplainlegend!}{7}{section*.36}%
+\contentsline {paragraph}{\lstinline !\\cvskillhead!}{8}{section*.37}%
+\contentsline {paragraph}{\lstinline !\\cvskillentry!}{8}{section*.38}%
+\contentsline {subsection}{\numberline {2.4}Letter of motivation}{8}{subsection.2.4}%
+\contentsline {paragraph}{\lstinline !\\recipient!}{8}{section*.39}%
+\contentsline {paragraph}{\lstinline !\\date!}{8}{section*.40}%
+\contentsline {paragraph}{\lstinline !\\subject!}{8}{section*.41}%
+\contentsline {paragraph}{\lstinline !\\opening!}{8}{section*.42}%
+\contentsline {paragraph}{\lstinline !\\closing!}{8}{section*.43}%
+\contentsline {paragraph}{\lstinline !\\signature!}{8}{section*.44}%
+\contentsline {paragraph}{\lstinline !\\enclosure!}{9}{section*.45}%
+\contentsline {paragraph}{Note.}{9}{section*.46}%
+\contentsline {section}{\numberline {3}Customization}{9}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Styles and their options}{9}{subsection.3.1}%
+\contentsline {paragraph}{\lstinline !casual!}{9}{section*.47}%
+\contentsline {paragraph}{\lstinline !classic!}{9}{section*.48}%
+\contentsline {paragraph}{\lstinline !banking!}{9}{section*.49}%
+\contentsline {paragraph}{\lstinline !oldstyle!}{10}{section*.50}%
+\contentsline {paragraph}{\lstinline !fancy!}{10}{section*.51}%
+\contentsline {paragraph}{Note.}{10}{section*.52}%
+\contentsline {paragraph}{\lstinline !contemporary!}{10}{section*.53}%
+\contentsline {paragraph}{Note.}{10}{section*.54}%
+\contentsline {subsection}{\numberline {3.2}Adjusting colors}{10}{subsection.3.2}%
+\contentsline {paragraph}{Note.}{10}{section*.55}%
+\contentsline {paragraph}{Base colors.}{10}{section*.56}%
+\contentsline {paragraph}{Fine tuning.}{11}{section*.57}%
+\contentsline {subsection}{\numberline {3.3}Modifying symbols and icons}{11}{subsection.3.3}%
+\contentsline {subsubsection}{\numberline {3.3.1}Icons}{11}{subsubsection.3.3.1}%
+\contentsline {paragraph}{Example.}{12}{section*.58}%
+\contentsline {paragraph}{Alternative to icons}{12}{section*.59}%
+\contentsline {subsubsection}{\numberline {3.3.2}Listing labels}{12}{subsubsection.3.3.2}%
+\contentsline {subsection}{\numberline {3.4}Adjusting lengths}{12}{subsection.3.4}%
+\contentsline {subsubsection}{\numberline {3.4.1}Lengths in the skill matrix}{13}{subsubsection.3.4.1}%
+\contentsline {subsection}{\numberline {3.5}Additional link commands}{14}{subsection.3.5}%
+\contentsline {subsection}{\numberline {3.6}Page breaks and orphaned section headers}{14}{subsection.3.6}%
+\contentsline {paragraph}{Experts only:}{15}{section*.60}%
+\contentsline {subsection}{\numberline {3.7}Tips and Tricks}{15}{subsection.3.7}%
+\contentsline {subsubsection}{\numberline {3.7.1}Legal disclaimer at the end of the CV}{15}{subsubsection.3.7.1}%
+\contentsline {section}{\numberline {4}Implementation details}{15}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Creating your own styles}{15}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Required packages}{16}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Known conflicts with other packages}{16}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Known bugs}{16}{subsection.4.4}%
