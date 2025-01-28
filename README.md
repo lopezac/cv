@@ -1,4 +1,4 @@
-[![cv](./cv.png)](https://lopezac.github.io/cv/)
+[![cv](./cv.png?v=2)](https://lopezac.github.io/cv/)
 
 # Instrucciones de instalacion
 
